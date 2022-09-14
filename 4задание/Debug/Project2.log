@@ -1,0 +1,3 @@
+﻿  4.c
+D:\Project2\4.c(10,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Project2.vcxproj -> D:\Project2\Debug\Project2.exe
