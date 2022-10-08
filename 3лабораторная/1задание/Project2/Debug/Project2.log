@@ -1,0 +1,6 @@
+﻿  So2urce.c
+E:\3лаба\1задание\Project2\So2urce.c(10,7): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\3лаба\1задание\Project2\So2urce.c(37,15): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\3лаба\1задание\Project2\So2urce.c(37,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+E:\3лаба\1задание\Project2\So2urce.c(38,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Project2.vcxproj -> E:\3лаба\1задание\Debug\Project2.exe
