@@ -1,0 +1,8 @@
+﻿  function.c
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _erorPeremen в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _massive2Init в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _ranInputMas в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _massive2Show в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _quickSort в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _freeMas в функции _main.
+E:\6лаба\2задание\Debug\2задание.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
