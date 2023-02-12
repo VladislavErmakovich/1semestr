@@ -1,0 +1,4 @@
+﻿  function.c
+E:\lab8\function.c(8,32): warning C4013: len: нет определения; предполагается "extern" с возвратом типа "int"
+E:\lab8\function.c(58,21): warning C4090: =: разные квалификаторы "const"
+  lab8.vcxproj -> E:\lab8\Debug\lab8.exe
