@@ -1,0 +1,74 @@
+﻿  function.c
+E:\lab5\function.c(24,21): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+E:\lab5\function.c(81,13): warning C4047: return: "int" отличается по уровням косвенного обращения от "int **"
+E:\lab5\function.c(113,34): warning C4020: realloc: слишком много фактических параметров
+E:\lab5\function.c(175,35): warning C4020: realloc: слишком много фактических параметров
+E:\lab5\function.c(175,47): warning C4047: =: "int **" отличается по уровням косвенного обращения от "int *"
+  Source.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(35,39): error C2085: _errno: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(38,57): error C2085: _set_errno: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(39,59): error C2085: _get_errno: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(55,56): error C2085: __threadid: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(57,55): error C2085: __threadhandle: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(23,100): error C2085: _CoreCrtSecureSearchSortCompareFunction: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(24,96): error C2085: _CoreCrtNonSecureSearchSortCompareFunction: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(35,72): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(35,72): error C2081: _CoreCrtSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(35,72): error C2085: bsearch_s: отсутствует в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(35,72): error C2146: синтаксическая ошибка: отсутствие "," перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(36,64): error C2059: синтаксическая ошибка: тип
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(37,9): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(43,73): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(43,73): error C2081: _CoreCrtSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(43,73): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(43,73): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(43,89): error C2059: синтаксическая ошибка: ,
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(45,9): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(57,68): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(57,68): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(57,68): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(57,68): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(58,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(64,68): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(64,68): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(64,68): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(64,68): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(65,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(73,73): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(73,73): error C2081: _CoreCrtSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(73,73): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(73,73): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(73,89): error C2059: синтаксическая ошибка: ,
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(75,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(83,73): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(83,73): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(83,73): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(83,73): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(84,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(92,79): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(92,79): error C2081: _CoreCrtSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(92,79): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(92,79): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(92,95): error C2059: синтаксическая ошибка: ,
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(94,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(102,79): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(102,79): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(102,79): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(102,79): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(103,5): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(200,77): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(200,77): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(200,77): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(200,77): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(201,9): error C2059: синтаксическая ошибка: )
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(209,82): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(209,82): error C2081: _CoreCrtNonSecureSearchSortCompareFunction: недопустимое имя в списке формальных параметров
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(209,82): error C2061: синтаксическая ошибка: идентификатор "_CompareFunction"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(209,82): error C2059: синтаксическая ошибка: ;
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(210,9): error C2059: синтаксическая ошибка: )
+E:\lab5\Source.c(11,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\lab5\Source.c(44,24): warning C4047: =: "int **" отличается по уровням косвенного обращения от "int"
+E:\lab5\Source.c(28,1): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int"
+  Создание кода...
+E:\lab5\function.c(123): warning C4716: erorM: должна возвращать значение
+E:\lab5\function.c(159): warning C4716: print: должна возвращать значение
