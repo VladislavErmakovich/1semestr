@@ -1,0 +1,8 @@
+﻿  function.c
+E:\laba7\function.c(200,24): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\laba7\function.c(200,18): warning C4024: vvod_strok: различные типы для формального и фактического параметров 2
+E:\laba7\function.c(201,19): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+E:\laba7\function.c(203,27): warning C4047: функция: "int" отличается по уровням косвенного обращения от "int *"
+E:\laba7\function.c(203,21): warning C4024: delete_probel: различные типы для формального и фактического параметров 2
+E:\laba7\function.c(199,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+  laba7.vcxproj -> E:\laba7\Debug\laba7.exe
